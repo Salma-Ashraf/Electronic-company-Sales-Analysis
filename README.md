@@ -6,6 +6,7 @@
 ## Project Intro/Objective
 The purpose of this project is analyzing a sales dataset which belongs to an electronics company in USA, This project ansewers some business questions which maybe impact the business development process in the company.
 
+### Dataset: https://drive.google.com/drive/folders/1eW16YlXtuF47dHz1C-J66khYZBYO6iwg?usp=sharing
 
 ### Methods Used
 * Exploring data
